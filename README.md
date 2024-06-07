@@ -27,10 +27,7 @@ An innovative application that leverages advanced generative AI models to provid
 4. **View Results**: Responses from CosmicAI are displayed immediately, providing valuable insights based on the input data.
 5. **Review History**: Expand the "Chat History" section in the sidebar to review previous interactions.
 
-## Technologies Used
-
 - **Streamlit**
 - **Google Generative AI**
 - **Python**
 - **Pillow**
-- **Dotenv**
