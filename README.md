@@ -1,6 +1,6 @@
 ## Overview
 
-A Simple application that leverages advanced generative AI models to provide insights and analysis on both text and images. By utilizing the powerful capabilities of Google's Gemini Pro and Gemini Pro Vision models, CosmicAI enables users to explore infinite possibilities through textual and visual data analysis.
+Simple application that leverages advanced generative AI models to provide insights and analysis on both text and images. By utilizing the powerful capabilities of Google's Gemini Pro and Gemini Pro Vision models, CosmicAI enables users to explore infinite possibilities through textual and visual data analysis.
 
 ## Features
 
